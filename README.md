@@ -1,1 +1,1 @@
-# Igil
+# Igil (Intelegent Genious Idiotic League)
